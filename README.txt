@@ -20,7 +20,8 @@ Other:
 	Responsive Tools (github.com/ajlkn/responsive-tools)
 
 Development & Operations (DevOps):
-	Emiel Janssen, Andreas Hulspas
+	Emiel Janssen
+	Andreas Hulspas
 
 
 

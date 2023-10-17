@@ -8,7 +8,6 @@ Credits:
 		Massively by HTML5 UP html5up.net | @ajlkn | AJ j@lkn.io |
 	
 	Images:
-		Unsplash (unsplash.com)
 		Haags Pianohuis
 
 	Icons:

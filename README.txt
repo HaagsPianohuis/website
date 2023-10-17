@@ -1,3 +1,41 @@
+
+Portfolio: site haagspianohuis.nl
+
+Credits:
+
+Engine:
+	Solid State by HTML5 UP html5up.net | @ajlkn | AJ j@lkn.io |
+
+Images:
+	Stock https://unsplash.com/
+	haagspianohuis
+	WebTeam
+
+Icons:
+	Font Awesome (fontawesome.io)
+
+Other:
+	jQuery (jquery.com)
+	Scrollex (github.com/ajlkn/jquery.scrollex)
+	Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Development & Operations (DevOps):
+	Emiel Janssen, Andreas Hulspas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

@@ -20,5 +20,5 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 	DevOps:
-	Emiel Janssen
-	Andreas Hulspas
+		Emiel Janssen
+		Andreas Hulspas
